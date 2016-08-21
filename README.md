@@ -21,4 +21,8 @@ The driver apparently worked fine after the powerful sed script aforementioned. 
 
 Right now I'm studying kdump and kexec so I can get kernel's core dump file and see if I'm smart enough to figure out what's going on with broadcom's driver for my wireless.
 
-Comments and tips are welcome
+## References
+broadcom's sources originally downloaded from: https://www.broadcom.com/support/802.11 (6.30.223.271) 64bit STA driver as of August 2016.
+
+# Colaborate
+Comments and tips are welcome!
