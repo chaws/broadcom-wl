@@ -24,5 +24,7 @@ Right now I'm studying kdump and kexec so I can get kernel's core dump file and 
 ## References
 broadcom's sources originally downloaded from: https://www.broadcom.com/support/802.11 (6.30.223.271) 64bit STA driver as of August 2016.
 
+There is a small discussion on bugzilla: https://bugzilla.kernel.org/show_bug.cgi?id=194903
+
 # Colaborate
 Comments and tips are welcome!
